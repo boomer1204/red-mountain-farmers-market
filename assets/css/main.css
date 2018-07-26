@@ -1766,6 +1766,9 @@ body.is-preload #footer {
 }
 
 .main-logo {
-  width: 250px;
-  height: 250px;
+  width: 300px;
+}
+
+.vendor-heading {
+  text-align: center;
 }
