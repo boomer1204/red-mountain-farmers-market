@@ -1776,3 +1776,7 @@ body.is-preload #footer {
 .apptext {
   text-align: center;
 }
+
+#honeypot {
+  display: none;
+}
