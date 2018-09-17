@@ -1780,3 +1780,18 @@ body.is-preload #footer {
 #honeypot {
   display: none;
 }
+
+.vendor-image {
+  height: 50px;
+  width: 50px;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+.vendors {
+  display: flex;
+}
+
+.vendors-right {
+  margin-left: 55px;
+}
