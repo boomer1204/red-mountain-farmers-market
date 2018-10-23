@@ -1771,6 +1771,7 @@ body.is-preload #footer {
 
 .vendor-heading {
   text-align: center;
+  margin-top: 10px;
 }
 
 .apptext {
@@ -1782,10 +1783,11 @@ body.is-preload #footer {
 }
 
 .vendor-image {
-  height: 50px;
+  /* height: 50px;
   width: 50px;
   vertical-align: middle;
-  margin-right: 5px;
+  margin-right: 5px */
+  height: 75%;
 }
 
 .vendors {
