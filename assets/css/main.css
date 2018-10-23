@@ -1787,13 +1787,13 @@ body.is-preload #footer {
   width: 50px;
   vertical-align: middle;
   margin-right: 5px */
-  height: 75%;
+  width: 100%;
 }
 
-.vendors {
+/* .vendors {
   display: flex;
 }
 
 .vendors-right {
   margin-left: 55px;
-}
+} */
