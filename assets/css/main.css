@@ -1784,9 +1784,9 @@ body.is-preload #footer {
 
 .vendor-image {
   height: 150px;
+  width: 250px;
   vertical-align: middle;
   margin-right: 5px;
-  width: 100%;
 }
 
 .vendors {
