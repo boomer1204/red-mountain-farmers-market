@@ -1791,8 +1791,6 @@ body.is-preload #footer {
 
 .vendors {
   display: flex;
+  justify-content: space-around;
 }
 
-.vendors-right {
-  margin-left: 55px;
-}
