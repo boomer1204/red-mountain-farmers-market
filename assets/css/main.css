@@ -202,7 +202,7 @@ body.is-preload *:after {
 
 /* Type */
 .blink_me {
-  animation: blinker 1s linear infinite;
+  animation: blinker 2s linear infinite;
 }
 
 @keyframes blinker {
